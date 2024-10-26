@@ -1,18 +1,7 @@
 # angelicapatinoo
-Pagina personal de Angelica Patiño
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-.my-group { 
-  background-color: blue;
-}
-.main {
-  color: white;
-  font-size:30px;
-}
-</style>
-<title>Pagina Personal de Angelica Patino</title>
 <meta name="keywords" content="Angelica Patino, Administracion de Negocios, Cursos">
 <meta name="description" content="Angelica Patino">
 </head>
